@@ -7,3 +7,15 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. 
 
 Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
+
+
+Part 1 of Project:-
+
+Automatidata is in the earliest stages of the TLC project. The following tasks are needed before the team can begin the data analysis process:
+
+1.Build a dataframe for the TLC dataset
+
+2.Examine data type of each column
+
+3.Gather descriptive statistics
+
