@@ -10,6 +10,7 @@ Note: This project's dataset was created for pedagogical purposes and may not be
 
 
 Part 1 of Project:-
+
 1.Build a dataframe for the TLC dataset
 
 2.Examine data type of each column
@@ -17,6 +18,7 @@ Part 1 of Project:-
 3.Gather descriptive statistics
 
 Part 2 of Project:-
+
 1.EDA and cleaning
 
 2.Select and build visualization
@@ -24,6 +26,7 @@ Part 2 of Project:-
 3.Create plots to visualize relationships between relevant variables
 
 Part 3 of Project:-
+
 1.Explore the project data
 
 2.Implement a hypothesis test
