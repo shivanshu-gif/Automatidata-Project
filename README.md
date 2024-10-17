@@ -10,12 +10,19 @@ Note: This project's dataset was created for pedagogical purposes and may not be
 
 
 Part 1 of Project:-
-
-Automatidata is in the earliest stages of the TLC project. The following tasks are needed before the team can begin the data analysis process:
-
 1.Build a dataframe for the TLC dataset
-
 2.Examine data type of each column
-
 3.Gather descriptive statistics
+
+Part 2 of Project:-
+1.EDA and cleaning
+2.Select and build visualization
+3.Create plots to visualize relationships between relevant variables
+
+Part 3 of Project:-
+1.Explore the project data
+2.Implement a hypothesis test
+3.Communicate insights with team members and TLC stakeholders
+
+
 
